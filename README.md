@@ -10,3 +10,5 @@ The car realizes this features:
   if the plant need more light, the car will take it to somewhere with abundant sunlight. 
   
   thanks to 正点原子, their models give me lots of helps.
+  
+  vl1680x stands for lightsensor.
