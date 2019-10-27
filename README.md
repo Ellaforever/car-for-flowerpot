@@ -3,6 +3,6 @@ STM32F103C8/motor L9110 /moisture sensor YL69/ light sensor/distance sensor ATK-
 
 The car realizes this features:
   avoidance: regrettably, we only use one distance sensor in the first mission, I'm sure it will be modified perfectly later;
-  go forward/backward,turn right, spin, stop
+  go forward/backward,turn right, spin, stop;
   if the plant need more light, the car will take it to somewhere with abundant sunlight. 
   
